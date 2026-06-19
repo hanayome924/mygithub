@@ -1,0 +1,12 @@
+proxies:
+  - name: 🇯🇵 AK|JP 日本
+    type: hysteria2
+    server: 156.246.90.185
+    port: 35242
+    udp: false
+    skip-cert-verify: true
+    sni: www.microsoft.com
+    obfs: salamander
+    password: xJfZHBMQQOsvpitEo0zmEM1mWcDxkLK0n352nIHRo7M=
+    obfs-password: Z3in29S5czsyQG33N0FJiQ==
+    tfo: false
